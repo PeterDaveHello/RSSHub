@@ -1,0 +1,19 @@
+lib/routes/hackernews/index.ts
+  s_851458448550f1::t_56b348a7dbfed1 10,16,19,21-22,38,41-47,53,57,60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f5917341bd11cea7551299561170767bc800f15b",
+  "prompts": {},
+  "sessions": {
+    "s_851458448550f1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f4631-d259-7042-b69c-df95c0b66115",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Ubuntu <peter@jitsi.peterhsu.tw>"
+    }
+  }
+}
