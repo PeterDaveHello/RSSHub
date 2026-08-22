@@ -1,0 +1,14 @@
+lib/routes/hackernews/index.ts
+  h_91c03fe45fa613 10,22-27,46,50-52,63-67,73-79,82,93-94,125-127,129,166
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "79479d94c56d4a7d91fa3da4b21da0ff68ea36da",
+  "prompts": {},
+  "humans": {
+    "h_91c03fe45fa613": {
+      "author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
