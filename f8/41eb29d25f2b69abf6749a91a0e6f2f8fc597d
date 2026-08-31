@@ -1,0 +1,19 @@
+lib/routes/hackernews/index.ts
+  s_e55318b430bb50::t_5aad03bbfddcb9 10,22-27,46,50-52,63-77,83-93,96,107-108,113,126-128,136,142-144,146-147,183
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "f841eb29d25f2b69abf6749a91a0e6f2f8fc597d",
+  "prompts": {},
+  "sessions": {
+    "s_e55318b430bb50": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02b3f-a4cb-73b2-984d-401a1a2162f3",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
