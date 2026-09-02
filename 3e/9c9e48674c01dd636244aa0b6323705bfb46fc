@@ -1,0 +1,44 @@
+lib/routes/hackernews.test.ts
+  s_e55318b430bb50::t_2612b21bc0bc83 1-2,4-7,10,18-26,43,45-48,50-54,57-66,72-76,78-85,87-94,96-103,105-106,120-129,131-138,140-147,174-185,203
+  s_e55318b430bb50::t_d89bd29bcab6b7 71,77,86,95,104,107-119,130,139,148
+  s_e55318b430bb50::t_62a44f315e52ec 3,8-9,11-17,27-42,44,49,55-56,67-70,149-173,186-193,195-201
+  s_e55318b430bb50::t_90712e8878a79e 194,202
+lib/routes/hackernews/index.ts
+  h_91c03fe45fa613 10,22,24-26,46,50-52,63-67,90,92,94,97,108-109,148,152,189
+  s_e55318b430bb50::t_1f59d2014229c5 23,27,69-71,74,86,89
+  s_d48ebe16415dcb::t_a02ea7fbda88cc 84-85
+  s_e55318b430bb50::t_48dce672671c1d 91
+  s_e55318b430bb50::t_5aad03bbfddcb9 87-88,93
+  s_e55318b430bb50::t_bc4461fd8f0e16 68,72-73,75-77
+  s_e55318b430bb50::t_5e0df3f501f2f9 147
+  s_e55318b430bb50::t_62a44f315e52ec 81,110-111,113-119,121-126,128-130,132-135,137-139,141-146,149,153
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "3e9c9e48674c01dd636244aa0b6323705bfb46fc",
+  "prompts": {},
+  "humans": {
+    "h_91c03fe45fa613": {
+      "author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  },
+  "sessions": {
+    "s_d48ebe16415dcb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ff1ec-572b-7163-976a-8fb829ae1724",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    },
+    "s_e55318b430bb50": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02b3f-a4cb-73b2-984d-401a1a2162f3",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
