@@ -1,0 +1,27 @@
+lib/middleware/parameter.test.ts
+  s_f3d11931228865::t_2101c7b8506c9e 8-20,360-364,366-368,374-459
+lib/middleware/parameter.ts
+  s_f3d11931228865::t_5340edc6928522 8,16,308-326,328,330-335
+lib/utils/fetch-public-url.test.ts
+  s_f3d11931228865::t_c4ab882aa6559a 1-182
+lib/utils/fetch-public-url.ts
+  s_f3d11931228865::t_94d71619f80a50 1-235
+lib/utils/request-rewriter/fetch.ts
+  s_f3d11931228865::t_b8d1f6504884b8 22-23,98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "669decb38c470b6a2653d9cb34cae688885b173b",
+  "prompts": {},
+  "sessions": {
+    "s_f3d11931228865": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a057e1-59d2-7853-a003-efb963fbe171",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
