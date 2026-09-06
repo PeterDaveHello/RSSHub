@@ -1,0 +1,21 @@
+tsconfig.json
+  s_e55318b430bb50::t_6975da77c7a3ae 22
+.github/workflows/test.yml
+  s_e55318b430bb50::t_6975da77c7a3ae 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "0afb00214fd1cf3b1ba315564abe3fb8ab8abe32",
+  "prompts": {},
+  "sessions": {
+    "s_e55318b430bb50": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02b3f-a4cb-73b2-984d-401a1a2162f3",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Peter Dave Hello <hsu@peterdavehello.org>"
+    }
+  }
+}
