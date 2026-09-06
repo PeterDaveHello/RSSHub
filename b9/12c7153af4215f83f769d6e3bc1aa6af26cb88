@@ -3,7 +3,7 @@ lib/routes/hackernews/index.ts
 ---
 {
   "schema_version": "authorship/3.0.0",
-  "git_ai_version": "1.6.10",
+  "git_ai_version": "1.7.2",
   "base_commit_sha": "b912c7153af4215f83f769d6e3bc1aa6af26cb88",
   "prompts": {},
   "sessions": {
